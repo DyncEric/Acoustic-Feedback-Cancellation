@@ -18,7 +18,7 @@ Install using .xcodeproj file.
 **Privacy Note: Application records through your microphone. App does not save data nor save it, to process later..**
 
 
-## Userguide
+## User guide
 More details about how the application was developed is written in USER GUIDE file available in the same folder.
 
 For more details about the algorithm please refer the work:
