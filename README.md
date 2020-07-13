@@ -2,9 +2,29 @@
 
 
 ## Overview
-What is the application?
 Purpose of the application is to demonstrate Acoustic Feedback Cancellation on smartphone devices.  Loudspeaker of the device playes the recorded sound
 in real time and microphone again captures it, creating infinite feedback loop. Application uses Adaptive Noise Injection based Algorithm to tackle the feedback problem.
+
+> Abstract
+Acoustic feedback cancellation is a challenging problem in
+the design of sound reinforcement systems, hearing aids, etc. Acoustic
+feedback is inevitable when the acoustic signal path forms a loop
+between the microphone and loudspeaker. An efficient short duration
+noise injection algorithm is proposed in this paper to estimate the
+impulse response of the acoustic feedback path model. The algorithm
+does not require any prior information about the acoustic feedback
+path. It is capable of optimally estimate the acoustic feedback path
+for cancellation, and avoid the occurrence of any howling episode, in
+varying acoustic environments. Presented algorithm is efficiently implemented
+on smartphone device having close proximity of loudspeaker
+and microphone to emulate the feedback condition. The algorithm being
+platform-independent can also be implemented for any set-up or system.
+The experimental results of the proposed method shows satisfying
+results and its ability to track and cancel the acoustic feedback in
+changing characteristics of the acoustic path.
+
+
+## Audio Video Demo
 
 For video demo of the application, please refer: https://www.youtube.com/watch?time_continue=2&v=uJS-AeDTFxk&feature=emb_logo
 For audio demo of the application, please refere: https://utdallas.edu/ssprl/hearing-aid-project/video-demonstration/acoustic-feedback-cancellation/
