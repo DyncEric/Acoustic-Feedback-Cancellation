@@ -39,7 +39,7 @@ Install using .xcodeproj file.
 
 
 ## User guide
-More details about how the application was developed is written in USER GUIDE file available in the same folder.
+More details about how the application was developed is written in [USER GUIDE](AFC_Users-Guide-iOS.pdf) file available in the same folder.
 
 For more details about the algorithm please refer the work:
 Efficient Real-Time Acoustic Feedback Cancellation using Adaptive Noise Injection Algorithm. Annual International Conference of the 
@@ -51,7 +51,7 @@ For more details about related work in signal processing, please visit: https://
 
 ## License and Citation
 
-The codes are licensed under MIT license.
+The codes are licensed under open-source MIT license.
 
 ## Disclaimer
 This work was supported in part by the National Institute of the Deafness and Other Communication Disorders (NIDCD) of the National Institutes of Health (NIH) under Award 1R01DC015430-04. The content is solely the responsibility of the authors and does not necessarily represent the official views of the NIH.
